@@ -12,14 +12,14 @@ header {
   padding-left: 50px;
   /* position: sticky;
   z-index: 9999;
-  top:0px; */
-  /* border: 2px dashed blue; */
+  top:0px;
+  background-color: black; */
 }
 
 .navigation a {
-    /* border: 2px dashed blue; */
-  height: 100px;
-  line-height: 100px;
+  /* border: 2px dashed blue; */
+  height: 85px;
+  line-height: 85px;
   /* max-width: 1433px;
   margin-left: auto;
   margin-right: auto;
@@ -29,7 +29,7 @@ header {
 
 .container {
   /* border: 10px solid red; */
-    /* border: 2px dashed blue; */
+  /* border: 2px dashed blue; */
   margin-left: auto;
   margin-right: auto;
   max-width: 1400px;
