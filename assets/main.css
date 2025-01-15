@@ -52,7 +52,7 @@ min-width: — down to… px */
 
   .line {
     margin-top: 30px;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
   }
 
   .image2 {
@@ -94,7 +94,7 @@ min-width: — down to… px */
     font-size: 1.5rem;
     line-height: 1.6rem;
     margin-bottom: 15px;
-    margin-top: 40px;
+    margin-top: 25px;
   }
 
   .column2 {
@@ -130,6 +130,7 @@ min-width: — down to… px */
   .column12intro {
     font-size: 1.1rem;
     line-height: 1.65rem;
+    margin-bottom: 25px;
     /* border: 10px solid red; */
   }
 
