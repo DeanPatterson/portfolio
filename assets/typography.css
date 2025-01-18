@@ -26,32 +26,87 @@ a:hover {
 
 p {
   margin-bottom: 10px;
-  /* background-color: blue; */
+}
+
+.p2 {
+  margin-top: 150px;
+  margin-bottom: 15px;
 }
 
 .mainheading {
-  color: #ffffff;
   /* Neue Haas Grotesk Display Pro 65 Medium */
+  /* background-color: blue; */
+  color: #ffffff;
   font-family: neue-haas-grotesk-display, sans-serif;
   font-weight: 600;
   font-style: normal;
   font-size: 6.35rem;
   line-height: 6.4rem;
-  margin-top: 50px;
   letter-spacing: 1.5%;
-  /* background-color: blue; */
+  margin-top: 50px;
+  margin-bottom: 45px;
 }
 
 h2 {
+  /* background-color: brown; */
   color: #ffffff;
   font-family: neue-haas-grotesk-display, sans-serif;
   font-weight: 600;
   font-style: normal;
-  font-size: 2rem;
-  line-height: 1.9rem;
+  font-size: 1.9rem;
+  line-height: 2rem;
   letter-spacing: 4%;
-  margin-top: 45px;
+  margin-top: 0px;
   margin-bottom: 20px;
+}
+
+.h2-1 {
+  /* background-color: purple; */
+  margin-top: 50px;
+}
+
+.h3-1 {
+  /* background-color: blue; */
+  color: #ffffff;
+  font-family: "neue-haas-grotesk-text", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 1.5%;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.h3-2 {
+  /* background-color: darkblue; */
+  color: #ffffff;
+  font-family: "neue-haas-grotesk-text", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 1.5%;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.h3-3 {
+  /* background-color: red; */
+  color: #ffffff;
+  font-family: "neue-haas-grotesk-text", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 1.5%;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.h4-1 {
+  /* background-color: green; */
+  color: #ffffff;
+  font-family: "neue-haas-grotesk-text", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 1.5%;
+  font-size: 1rem;
+  margin-top: 32px;
 }
 
 .column2 {
@@ -102,7 +157,6 @@ h2 {
   letter-spacing: 1.5%;
   font-size: 1.2rem;
   line-height: 1.7rem;
-  margin-bottom: 30px;
 }
 
 .column12intro {
@@ -118,6 +172,7 @@ h2 {
 }
 
 .column12small {
+  /* background-color: blue; */
   color: #ffffff;
   font-family: "neue-haas-grotesk-text", sans-serif;
   font-weight: 400;
@@ -125,7 +180,6 @@ h2 {
   letter-spacing: 1%;
   font-size: 1rem;
   line-height: 1.4rem;
-  margin-bottom: 40px;
 }
 
 .footertext {
@@ -136,5 +190,4 @@ h2 {
   letter-spacing: 1.5%;
   font-size: 0.95rem;
   line-height: 1.35rem;
-  margin-top: 10px;
 }
