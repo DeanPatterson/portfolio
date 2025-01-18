@@ -3,7 +3,6 @@ header {
   margin-left: auto;
   margin-right: auto;
   max-width: 1400px;
-  /* border: 2px dashed blue; */
 }
 
 .navcontainer {
@@ -17,19 +16,13 @@ header {
 }
 
 .navigation a {
-  /* border: 2px dashed blue; */
+  /* border: 10px solid red; */
   height: 85px;
   line-height: 85px;
-  /* max-width: 1433px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-right: 50px;
-  padding-left: 50px; */
 }
 
 .container {
   /* border: 10px solid red; */
-  /* border: 2px dashed blue; */
   margin-left: auto;
   margin-right: auto;
   max-width: 1400px;
@@ -37,18 +30,30 @@ header {
   padding-left: 50px;
 }
 
-.linenav {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
 .line {
-  margin-top: 50px;
   margin-bottom: 35px;
 }
 
 .line2 {
+  margin-top: 35px;
   margin-bottom: 35px;
+}
+
+.line3 {
+  margin-top: 50px;
+  margin-bottom: 35px;
+}
+
+.space-1 {
+  margin-bottom: 0cm;
+}
+
+.space-2 {
+  margin-bottom: 15px;
+}
+
+.space-3 {
+  margin-bottom: 33px;
 }
 
 .column1 {
@@ -56,7 +61,6 @@ header {
   width: 18.33%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column2 {
@@ -64,7 +68,6 @@ header {
   width: 16.66%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column3 {
@@ -72,7 +75,6 @@ header {
   width: 25%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column4 {
@@ -80,12 +82,14 @@ header {
   width: 33.33%;
   padding-right: 15px;
   float: left;
+  margin-bottom: 0px;
 }
 
 .column4-1 {
   /* border: 10px solid red; */
   width: 33.33%;
   float: left;
+  margin-bottom: 12px;
 }
 
 .column5 {
@@ -93,7 +97,6 @@ header {
   width: 41.66%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column6 {
@@ -101,7 +104,6 @@ header {
   width: 50%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column7 {
@@ -109,7 +111,6 @@ header {
   width: 58.33%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column8 {
@@ -117,13 +118,21 @@ header {
   width: 66.66%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
+  margin-bottom: 0px;
 }
 
-.column-8 {
+.column8-1 {
   /* border: 10px solid red; */
   width: 66.66%;
   float: left;
+  padding-right: 0px;
+}
+
+.column8-2 {
+  /* border: 10px solid red; */
+  width: 66.66%;
+  float: left;
+  padding-right: 15px;
 }
 
 .column9 {
@@ -131,7 +140,6 @@ header {
   width: 75%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column10 {
@@ -139,7 +147,6 @@ header {
   width: 83.33%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column11 {
@@ -147,15 +154,18 @@ header {
   width: 99.66%;
   padding-right: 15px;
   float: left;
-  /* margin-bottom: 30px; */
 }
 
 .column12 {
   /* border: 10px solid red; */
   width: 100%;
-  /* padding-right: 15px; */
   float: left;
-  /* margin-bottom: 30px; */
+  margin-bottom: 35px;
+}
+
+.column12-1 {
+  /* border: 10px solid red; */
+  margin-bottom: 12px;
 }
 
 .footercontainer {
@@ -169,8 +179,7 @@ header {
 }
 
 .footerline {
-  /* border: 10px solid red; */
-  margin-top: 40px;
+  margin-top: 50px;
   margin-bottom: 15px;
 }
 
