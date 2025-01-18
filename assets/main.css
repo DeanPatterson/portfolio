@@ -87,6 +87,10 @@ min-width: — down to… px */
     margin-bottom: 35px;
   }
 
+  p{
+    margin-bottom: 0px;
+  }
+
   h2 {
     /* background-color: brown; */
     font-size: 1.45rem;
@@ -205,6 +209,11 @@ min-width: — down to… px */
     font-size: 4.85rem;
     line-height: 4.9rem;
   }
+
+  p{
+    margin-bottom: 0px;
+  }
+
 
   h2 {
     /* background-color: blue; */
