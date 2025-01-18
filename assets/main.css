@@ -46,7 +46,7 @@ min-width: — down to… px */
   }
 
   .line2 {
-    margin-top: 25px;
+    margin-top: 35px;
     margin-bottom: 25px;
   }
 
@@ -87,7 +87,7 @@ min-width: — down to… px */
     margin-bottom: 35px;
   }
 
-  p{
+  p {
     margin-bottom: 0px;
   }
 
@@ -210,10 +210,9 @@ min-width: — down to… px */
     line-height: 4.9rem;
   }
 
-  p{
+  p {
     margin-bottom: 0px;
   }
-
 
   h2 {
     /* background-color: blue; */
