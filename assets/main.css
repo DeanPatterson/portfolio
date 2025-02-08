@@ -41,6 +41,10 @@ min-width: — down to… px */
     line-height: 70px;
   }
 
+  .button-1 {
+    margin-top: 20px;
+  }
+
   .line {
     margin-bottom: 25px;
   }
@@ -186,7 +190,7 @@ min-width: — down to… px */
   }
 
   .footertext {
-    font-size: 0.9rem;
+    font-size: 0.87rem;
   }
 }
 
@@ -202,6 +206,10 @@ min-width: — down to… px */
 
   .navigation a {
     font-size: 1.2rem;
+  }
+
+  .button-1 {
+    margin-top: 15px;
   }
 
   .mainheading {
