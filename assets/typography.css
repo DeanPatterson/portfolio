@@ -24,6 +24,24 @@ a:hover {
   color: #ffffff;
 }
 
+/* .button a {
+  text-decoration: none;
+  color: white;
+  font-family: "neue-haas-grotesk-text", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 1%;
+  font-size: 1.1rem;
+}
+
+.button a:hover {
+  color: rgb(135, 135, 135);
+}
+
+.button:hover {
+  border: solid 1px rgb(135, 135, 135);
+} */
+
 p {
   margin-bottom: 10px;
 }
@@ -66,7 +84,7 @@ h2 {
 
 .h2-1 {
   /* background-color: purple; */
-  margin-top: 50px;
+  margin-top: 55px;
 }
 
 .h3-1 {
