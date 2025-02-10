@@ -204,6 +204,21 @@ min-width: — down to… px */
     height: 400px;
   }
 
+  .navcontainer {
+    /* border: 10px solid red; */
+    padding-right: 35px;
+    padding-left: 35px;
+  }
+
+  .container {
+    /* border: 10px solid red; */
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1400px;
+    padding-right: 35px;
+    padding-left: 35px;
+  }
+
   .navigation a {
     font-size: 1.2rem;
   }
