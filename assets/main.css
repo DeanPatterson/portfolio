@@ -283,6 +283,16 @@ min-width: — down to… px */
     line-height: 1.6rem;
   }
 
+  .footercontainer {
+    /* border: 10px solid red; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+    max-width: 1400px;
+    padding-right: 35px;
+    padding-left: 35px;
+  }
+
   .footerline {
     margin-top: 40px;
     margin-bottom: 15px;
