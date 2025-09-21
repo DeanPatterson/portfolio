@@ -41,6 +41,11 @@ a:hover {
 .button:hover {
   border: solid 1px rgb(135, 135, 135);
 } */
+ 
+.disc-list {
+  list-style-type: disc;
+  padding-left: 1rem;
+}
 
 p {
   margin-bottom: 10px;
@@ -118,6 +123,10 @@ h2 {
   letter-spacing: 1.5%;
   font-size: 1rem;
   margin-bottom: 10px;
+}
+
+.semibold {
+  font-weight: 600;
 }
 
 .h4-1 {
